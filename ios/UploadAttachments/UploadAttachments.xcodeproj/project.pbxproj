@@ -5,6 +5,7 @@
 	};
 	objectVersion = 50;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		7F80232C229C91AD0034D6D4 /* MMMConstants.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7FABE054221387B500D0F595 /* MMMConstants.h */; };
 		7F82907122C295AC0035544F /* MMKeychainManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F82907022C295AC0035544F /* MMKeychainManager.m */; };
@@ -156,6 +157,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 7FABE02D22137F2900D0F595;
 			productRefGroup = 7FABE03722137F2900D0F595 /* Products */;
